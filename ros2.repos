@@ -245,8 +245,8 @@ repositories:
     version: master
   ros2/rclpy:
     type: git
-    url: https://github.com/ros2/rclpy.git
-    version: master
+    url: https://github.com/crystaldust/rclpy.git
+    version: node-get_fully_qualified_name
   ros2/rcpputils:
     type: git
     url: https://github.com/ros2/rcpputils.git
